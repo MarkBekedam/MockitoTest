@@ -1,19 +1,15 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+This program is a tutorial to test the Mockito unit testing framework.
+*/
 package mockitotest;
 
-/**
- *
- * @author markb
- */
+import java.util.ArrayList;
+import java.util.List;
+
+//import static org.mockito.Mockito.*;
+
 public class MockitoTest {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         // TODO code application logic here
     }
